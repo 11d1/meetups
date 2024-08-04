@@ -1,0 +1,3 @@
+|Application|Extensions|
+|---|---|
+|Lunacy|.free|
